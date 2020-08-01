@@ -1,0 +1,36 @@
+body {
+  margin: 0;
+  padding: 1rem;
+  font-family:'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.todotitle{
+	color: skyblue;
+	width: 100%;
+	text-align: center;
+	text-decoration: underline;
+}
+
+.templetediv{
+	padding: 1rem;
+	margin:1rem 0;
+	border-spacing: 1rem;
+	border-color: black;
+	border-style: solid;
+}
+
+.deletebutton{
+	background-color: red;
+}
+
+#todoinput{
+	margin:0 1rem;
+}
+
+h3{
+	display: inline;
+}
